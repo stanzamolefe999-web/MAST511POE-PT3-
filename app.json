@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Christoffel's Kitchen",
+    "slug": "christoffels-kitchen-part2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.koketso.christoffelskitchen"
+    },
+    "ios": {
+      "bundleIdentifier": "com.koketso.christoffelskitchen"
+    }
+  }
+}
